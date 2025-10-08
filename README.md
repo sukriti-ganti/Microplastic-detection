@@ -60,3 +60,6 @@ LED / Buzzer (Visual & Audio Alerts)
    ```bash
    sudo apt update
    sudo apt install python3-opencv python3-numpy python3-flask python3-sklearn python3-rpi.gpio python3-pigpio -y
+
+## Scalability 
+Future versions can integrate higher-resolution or microscopic cameras to detect micro- and nano-sized plastic particles (<10 µm). The same AI framework can be retrained on enhanced imaging data, enabling precise identification of particle size, shape, and material type, extending the system to laboratory and industrial monitoring applications.
